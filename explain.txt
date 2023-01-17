@@ -1,0 +1,22 @@
+git --version => check version
+git init => create/init git local repo
+git status => check your git tree track
+git remote add origin <url> => add your remote repo link , we linkup
+git branch -M branchName => set branch
+git add . (all) => add your All file to and folder to git tree
+git add fileName => add your specific file to and folder to git tree
+git commit -m "message" =>  create breakpoint
+git push origin branchName => send files to github
+git pull origin branchName => get from github
+git clone url => get you project on local machine
+git config => set a configuration 
+
+
+code ...
+commit => update-1
+
+code ...
+commit => update-2
+
+code ...
+commit => update-3
